@@ -1,0 +1,6 @@
+Wed Jun 11 19:31:34 2025
+WARNING: mju_openResource: unknown file 'universal_robots_ur5e/ur5e.xml'
+
+Wed Jun 11 19:41:12 2025
+WARNING: mju_openResource: unknown file 'universal_robots_ur5e/ur5e.xml'
+
